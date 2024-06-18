@@ -6,6 +6,7 @@
 
 ​dataset：处理好的数据集，包含两个道路-社交网络，查询节点，以及节点之间的映射关系
 ​	
+
 Alg.py：提出的LCDMRS算法
 ​	
 ComStru.py：计算由LCDMRS算法得到的社区的coe-com和pavg值
